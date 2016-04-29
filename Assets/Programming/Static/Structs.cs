@@ -7,8 +7,9 @@ public static class Structs {
 
 		float rangedDamage { get; set; }
 		float meleeDamage { get; set; }
-		float range { get; set; }
-		float speed { get; set; }
+		float shootRange { get; set; }
+		float meleeRange { get; set; }
+		float attackSpeed { get; set; }
 
 	}
 		
