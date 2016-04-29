@@ -1,12 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public static class Dictionary {
 
-	public readonly Dictionary<string, XlFileFormat> FILE_TYPE_DICT = new Dictionary<string, XlFileFormat>
-		{
-			{"csv", XlFileFormat.xlCSV},
-			{"html", XlFileFormat.xlHtml}
-		};
+	public static readonly Dictionary<Enums.Weapons, Structs.Weapon> weaponsList = new Dictionary<Enums.Weapons, Structs.Weapon>();
 
 }

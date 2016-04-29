@@ -7,7 +7,7 @@ public static class Enums {
 		Resource, Tool, Weapon
 	}
 
-	public enum Weapon {
+	public enum Weapons {
 		Spear, Machete, Sword, Mace
 	}
 

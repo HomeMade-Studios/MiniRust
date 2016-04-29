@@ -7,12 +7,6 @@ public static class Structs {
 
 		float damage { get; set; }
 		float range { get; set; }
-		float damage { get; set; }
-		float damage { get; set; }
-		float damage { get; set; }
-		float damage { get; set; }
-		float damage { get; set; }
-		float damage { get; set; }
 
 
 
