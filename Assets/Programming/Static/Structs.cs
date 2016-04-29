@@ -3,12 +3,12 @@ using System.Collections;
 
 public static class Structs {
 
-	public class Weapon {
+	public struct Item {
 
-		float damage { get; set; }
+		float rangedDamage { get; set; }
+		float meleeDamage { get; set; }
 		float range { get; set; }
-
-
+		float speed { get; set; }
 
 	}
 		

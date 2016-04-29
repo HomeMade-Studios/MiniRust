@@ -4,10 +4,10 @@ using System.Collections;
 public static class Enums {
 
 	public enum ItemType {
-		Resource, Tool, Weapon
+		Resource, Tool, Weapon, Armor
 	}
 
-	public enum Weapons {
+	public enum Items {
 		Spear, Machete, Sword, Mace
 	}
 

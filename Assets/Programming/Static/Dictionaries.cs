@@ -4,6 +4,6 @@ using System.Collections.Generic;
 
 public static class Dictionary {
 
-	public static readonly Dictionary<Enums.Weapons, Structs.Weapon> weaponsList = new Dictionary<Enums.Weapons, Structs.Weapon>();
+	public static readonly Dictionary<Enums.Items, Structs.Item> weaponsList = new Dictionary<Enums.Items, Structs.Item>();
 
 }
