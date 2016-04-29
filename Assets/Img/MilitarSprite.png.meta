@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: 4bbad7e64f0fc7a41b776571e8930077
+timeCreated: 1461943597
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MilitarSprite_0
+    21300002: MilitarSprite_1
+    21300004: MilitarSprite_2
+    21300006: MilitarSprite_3
+    21300008: MilitarSprite_4
+    21300010: MilitarSprite_5
+    21300012: MilitarSprite_6
+    21300014: MilitarSprite_7
+    21300016: MilitarSprite_8
+    21300018: MilitarSprite_9
+    21300020: MilitarSprite_10
+    21300022: MilitarSprite_11
+    21300024: MilitarSprite_12
+    21300026: MilitarSprite_13
+    21300028: MilitarSprite_14
+    21300030: MilitarSprite_15
+    21300032: MilitarSprite_16
+    21300034: MilitarSprite_17
+    21300036: MilitarSprite_18
+    21300038: MilitarSprite_19
+    21300040: MilitarSprite_20
+    21300042: MilitarSprite_21
+    21300044: MilitarSprite_22
+    21300046: MilitarSprite_23
+    21300048: MilitarSprite_24
+    21300050: MilitarSprite_25
+    21300052: MilitarSprite_26
+    21300054: MilitarSprite_27
+    21300056: MilitarSprite_28
+    21300058: MilitarSprite_29
+    21300060: MilitarSprite_30
+    21300062: MilitarSprite_31
+    21300064: MilitarSprite_32
+    21300066: MilitarSprite_33
+    21300068: MilitarSprite_34
+    21300070: MilitarSprite_35
+    21300072: MilitarSprite_36
+    21300074: MilitarSprite_37
+    21300076: MilitarSprite_38
+    21300078: MilitarSprite_39
+    21300080: MilitarSprite_40
+    21300082: MilitarSprite_41
+    21300084: MilitarSprite_42
+    21300086: MilitarSprite_43
+    21300088: MilitarSprite_44
+    21300090: MilitarSprite_45
+    21300092: MilitarSprite_46
+    21300094: MilitarSprite_47
+    21300096: MilitarSprite_48
+    21300098: MilitarSprite_49
+    21300100: MilitarSprite_50
+    21300102: MilitarSprite_51
+    21300104: MilitarSprite_52
+    21300106: MilitarSprite_53
+    21300108: MilitarSprite_59
+    21300110: MilitarSprite_60
+    21300112: MilitarSprite_61
+    21300114: MilitarSprite_62
+    21300116: MilitarSprite_68
+    21300118: MilitarSprite_69
+    21300120: MilitarSprite_70
+    21300122: MilitarSprite_71
+    21300124: MilitarSprite_72
+    21300126: MilitarSprite_73
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MilitarSprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -16, y: 12}
+        - {x: -16, y: 1}
+        - {x: -15, y: -1}
+        - {x: -7, y: -14}
+        - {x: 4, y: -14}
+        - {x: 16, y: -6}
+        - {x: 16, y: 15}
+    - name: MilitarSprite_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -16, y: 12}
+        - {x: -16, y: 1}
+        - {x: -15, y: -1}
+        - {x: -7, y: -14}
+        - {x: 4, y: -14}
+        - {x: 16, y: -6}
+        - {x: 16, y: 15}
+    - name: MilitarSprite_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 12}
+        - {x: -15, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 16}
+    - name: MilitarSprite_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 15}
+        - {x: -15, y: 3}
+        - {x: -15, y: -9}
+        - {x: -5, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -8}
+        - {x: 15, y: 10}
+        - {x: 11, y: 16}
+    - name: MilitarSprite_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: -9, y: 15}
+        - {x: -12, y: 12}
+        - {x: -12, y: -7}
+        - {x: -6, y: -12}
+        - {x: 3, y: -12}
+        - {x: 8, y: -8}
+        - {x: 11, y: -5}
+        - {x: 11, y: 12}
+    - name: MilitarSprite_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 9}
+        - {x: 9, y: 12}
+        - {x: -8, y: 12}
+    - name: MilitarSprite_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 9}
+        - {x: 9, y: 12}
+        - {x: -8, y: 12}
+    - name: MilitarSprite_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 9}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 9}
+        - {x: 9, y: 12}
+        - {x: -8, y: 12}
+    - name: MilitarSprite_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 15}
+        - {x: -11, y: 9}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 11}
+        - {x: 3, y: 15}
+    - name: MilitarSprite_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 15}
+        - {x: -8, y: 12}
+        - {x: -11, y: 9}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 10}
+        - {x: 6, y: 15}
+    - name: MilitarSprite_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 298
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -16, y: 3}
+        - {x: -16, y: -2}
+        - {x: 0, y: -2}
+        - {x: 2, y: 0}
+        - {x: 2, y: 16}
+      - - {x: -13, y: 14}
+        - {x: -14, y: 11}
+        - {x: -14, y: 5}
+        - {x: -10, y: 3}
+        - {x: -7, y: 3}
+        - {x: -3, y: 5}
+        - {x: -3, y: 10}
+        - {x: -5, y: 14}
+    - name: MilitarSprite_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -2}
+        - {x: -5, y: -14}
+        - {x: 2, y: -14}
+        - {x: 16, y: -2}
+        - {x: 16, y: 15}
+    - name: MilitarSprite_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -2}
+        - {x: -5, y: -14}
+        - {x: 2, y: -14}
+        - {x: 16, y: -2}
+        - {x: 16, y: 15}
+    - name: MilitarSprite_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 16}
+    - name: MilitarSprite_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 12}
+        - {x: -15, y: -14}
+        - {x: -13, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 16}
+    - name: MilitarSprite_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 15}
+        - {x: -11, y: 15}
+        - {x: -12, y: 13}
+        - {x: -12, y: -9}
+        - {x: -3, y: -16}
+        - {x: 4, y: -16}
+        - {x: 11, y: -6}
+        - {x: 11, y: 12}
+    - name: MilitarSprite_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -16}
+        - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+    - name: MilitarSprite_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -16}
+        - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+    - name: MilitarSprite_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -16}
+        - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+    - name: MilitarSprite_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -16}
+        - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+    - name: MilitarSprite_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -16}
+        - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -16}
+    - name: MilitarSprite_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -6}
+        - {x: -8, y: -14}
+        - {x: 4, y: -14}
+        - {x: 16, y: -3}
+        - {x: 16, y: 13}
+        - {x: 12, y: 15}
+    - name: MilitarSprite_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -6}
+        - {x: -8, y: -14}
+        - {x: 4, y: -14}
+        - {x: 16, y: -3}
+        - {x: 16, y: 13}
+        - {x: 12, y: 15}
+    - name: MilitarSprite_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 15}
+        - {x: 9, y: 16}
+        - {x: -10, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 10}
+    - name: MilitarSprite_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -15, y: 2}
+        - {x: -15, y: -7}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 12, y: -14}
+        - {x: 15, y: -8}
+        - {x: 15, y: 5}
+        - {x: 8, y: 16}
+    - name: MilitarSprite_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 15}
+        - {x: -12, y: 12}
+        - {x: -12, y: -6}
+        - {x: -6, y: -10}
+        - {x: 11, y: -10}
+        - {x: 11, y: 15}
+    - name: MilitarSprite_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -6}
+        - {x: -3, y: -11}
+        - {x: 6, y: -11}
+        - {x: 9, y: -6}
+        - {x: 12, y: 5}
+        - {x: 12, y: 16}
+    - name: MilitarSprite_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -6}
+        - {x: -3, y: -11}
+        - {x: 6, y: -11}
+        - {x: 9, y: -6}
+        - {x: 12, y: 5}
+        - {x: 12, y: 16}
+    - name: MilitarSprite_28
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -6}
+        - {x: -3, y: -11}
+        - {x: 6, y: -11}
+        - {x: 9, y: -6}
+        - {x: 12, y: 5}
+        - {x: 12, y: 16}
+    - name: MilitarSprite_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -6}
+        - {x: -3, y: -11}
+        - {x: 6, y: -11}
+        - {x: 9, y: -6}
+        - {x: 12, y: 5}
+        - {x: 12, y: 16}
+    - name: MilitarSprite_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -6}
+        - {x: -3, y: -11}
+        - {x: 6, y: -11}
+        - {x: 9, y: -6}
+        - {x: 12, y: 5}
+        - {x: 12, y: 16}
+    - name: MilitarSprite_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MilitarSprite_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MilitarSprite_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 199
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: MilitarSprite_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_39
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 14}
+        - {x: -1, y: 14}
+        - {x: -6, y: 10}
+        - {x: -6, y: -9}
+        - {x: 0, y: -14}
+        - {x: 2, y: -14}
+        - {x: 7, y: -8}
+        - {x: 7, y: 7}
+    - name: MilitarSprite_41
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 16}
+        - {x: -16, y: 3}
+        - {x: -16, y: -2}
+        - {x: 0, y: -2}
+        - {x: 2, y: 0}
+        - {x: 2, y: 16}
+      - - {x: -11, y: 8}
+        - {x: -9, y: 6}
+        - {x: -6, y: 7}
+        - {x: -6, y: 11}
+        - {x: -8, y: 13}
+        - {x: -11, y: 12}
+    - name: MilitarSprite_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_44
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 10}
+        - {x: -6, y: -8}
+        - {x: -4, y: -9}
+        - {x: 0, y: -9}
+        - {x: 5, y: -6}
+        - {x: 5, y: 4}
+        - {x: 2, y: 10}
+    - name: MilitarSprite_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 133
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -6, y: -7}
+        - {x: -5, y: -8}
+        - {x: 1, y: -8}
+        - {x: 5, y: -6}
+        - {x: 5, y: 7}
+        - {x: 3, y: 9}
+    - name: MilitarSprite_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_48
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: -5, y: -9}
+        - {x: 1, y: -9}
+        - {x: 5, y: -7}
+        - {x: 5, y: 6}
+        - {x: 3, y: 8}
+    - name: MilitarSprite_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 67
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: -5, y: -9}
+        - {x: 1, y: -9}
+        - {x: 5, y: -7}
+        - {x: 5, y: 6}
+        - {x: 3, y: 8}
+    - name: MilitarSprite_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_61
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 2}
+        - {x: -6, y: -1}
+        - {x: -4, y: -5}
+        - {x: 1, y: -5}
+        - {x: 5, y: -3}
+        - {x: 5, y: 2}
+        - {x: 1, y: 6}
+        - {x: -2, y: 6}
+    - name: MilitarSprite_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 8}
+        - {x: -6, y: -8}
+        - {x: -5, y: -9}
+        - {x: 1, y: -9}
+        - {x: 5, y: -7}
+        - {x: 5, y: 6}
+        - {x: 3, y: 8}
+    - name: MilitarSprite_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 8}
+        - {x: -4, y: 8}
+        - {x: -9, y: 4}
+        - {x: -9, y: -5}
+        - {x: -5, y: -9}
+        - {x: 2, y: -9}
+        - {x: 8, y: -6}
+        - {x: 8, y: 3}
+        - {x: 4, y: 7}
+    - name: MilitarSprite_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -10, y: 7}
+        - {x: -10, y: -4}
+        - {x: -8, y: -10}
+        - {x: 6, y: -10}
+        - {x: 9, y: -4}
+        - {x: 9, y: 5}
+        - {x: 5, y: 9}
+    - name: MilitarSprite_70
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -10, y: 7}
+        - {x: -10, y: -4}
+        - {x: -8, y: -10}
+        - {x: 6, y: -10}
+        - {x: 9, y: -4}
+        - {x: 9, y: 5}
+        - {x: 5, y: 9}
+    - name: MilitarSprite_71
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -10, y: 7}
+        - {x: -10, y: -4}
+        - {x: -8, y: -10}
+        - {x: 6, y: -10}
+        - {x: 9, y: -4}
+        - {x: 9, y: 5}
+        - {x: 5, y: 9}
+    - name: MilitarSprite_72
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -10, y: 7}
+        - {x: -10, y: -4}
+        - {x: -8, y: -10}
+        - {x: 6, y: -10}
+        - {x: 9, y: -4}
+        - {x: 9, y: 5}
+        - {x: 5, y: 9}
+    - name: MilitarSprite_73
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 9}
+        - {x: -10, y: 7}
+        - {x: -10, y: -4}
+        - {x: -8, y: -10}
+        - {x: 6, y: -10}
+        - {x: 9, y: -4}
+        - {x: 9, y: 5}
+        - {x: 5, y: 9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
