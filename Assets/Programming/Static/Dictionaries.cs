@@ -2,8 +2,8 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public static class Dictionary {
+public static class Dictionaries {
 
-	public static readonly Dictionary<Enums.Items, Structs.Item> weaponsList = new Dictionary<Enums.Items, Structs.Item>();
+	public static readonly Dictionary<Tools, Structs.Tool> tools = new Dictionary<Tools, Structs.Tool>();
 
 }
