@@ -19,6 +19,6 @@ public class PlayerMovement : MonoBehaviour {
         transform.Translate (axis * speed * Time.deltaTime, Space.World);
 		transform.Translate (speedOffset * Time.deltaTime, Space.World);
 
-		Debug.Log(CnInputManager.GetAxis("Horizontal"));
+		Debug.Log(axis);
 	}
 }
