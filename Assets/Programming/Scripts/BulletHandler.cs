@@ -20,6 +20,6 @@ public class BulletHandler : MonoBehaviour {
 	void Update () {
 		//direction = new Vector2(-sin, cos);
 		//transform.Translate( direction * speed * Time.deltaTime, Space.World);
-		Debug.Log(direction * speed);
+		//Debug.Log(direction * speed);
 	}
 }
