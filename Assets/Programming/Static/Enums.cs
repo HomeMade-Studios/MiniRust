@@ -12,5 +12,3 @@ public enum Tools {
 public enum ArmorLevels {
 	Leather, Wood, Bone, Iron, Steel
 }
-
-

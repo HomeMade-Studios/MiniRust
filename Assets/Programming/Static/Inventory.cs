@@ -4,20 +4,20 @@ using System.Collections.Generic;
 
 public static class Inventory {
 
-	static int woodAmount;
-	static int stoneAmount;
-	static int metalOreAmount;
-	static int sulfurOreAmount;
-	static int metalAmount;
-	static int sulfurAmount;
-	static int clothesAmount;
-	static int boneAmount;
-	static int leatherAmount;
+	static int woodAmount { get; set; }
+	static int stoneAmount { get; set; }
+	static int metalOreAmount { get; set; }
+	static int sulfurOreAmount { get; set; }
+	static int metalAmount { get; set; }
+	static int sulfurAmount { get; set; }
+	static int clothesAmount { get; set; }
+	static int boneAmount { get; set; }
+	static int leatherAmount { get; set; }
 
-	static int waterAmount;
-	static int cookedFoodAmount;
-	static int rawFoodAmount;
+	static int waterAmount { get; set; }
+	static int cookedFoodAmount { get; set; }
+	static int rawFoodAmount { get; set; }
 
-	static List<object> inventoryList;
+	static List<object> inventoryList { get; set; }
 
 }
