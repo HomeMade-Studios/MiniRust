@@ -5,7 +5,7 @@ public class PlayerMovement : MonoBehaviour {
 
 	public float XSpeed = 0;
 	public float YSpeed = 25;
-
+	Vector2 movement;
 	// Use this for initialization
 	void Start () {
 	
@@ -13,6 +13,7 @@ public class PlayerMovement : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.Translate(new Vector2(XSpeed, YSpeed) * Time.deltaTime);
+		movement = new Vector2(XSpeed, YSpeed);
+        transform.Translate (movement* Time.deltaTime);
 	}
 }
