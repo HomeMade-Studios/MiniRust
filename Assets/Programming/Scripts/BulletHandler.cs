@@ -13,12 +13,13 @@ public class BulletHandler : MonoBehaviour {
 	void Start () {
 		sin = Mathf.Sin(Mathf.Deg2Rad * transform.rotation.eulerAngles.z);
 		cos = Mathf.Cos(Mathf.Deg2Rad * transform.rotation.eulerAngles.z);
-		direction = new Vector2(sin, cos);
-    }
+		direction = new Vector2(-sin, cos);
+	}
 	
 	// Update is called once per frame
 	void Update () {
-		transform.Translate( direction*speed * Time.deltaTime);
+		//direction = new Vector2(-sin, cos);
+		//transform.Translate( direction * speed * Time.deltaTime, Space.World);
 		Debug.Log(direction * speed);
 	}
 }
