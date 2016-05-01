@@ -4,19 +4,21 @@ using CnControls;
 
 public class PlayerMovement : MonoBehaviour {
 
-	public float XSpeed = 0;
-	public float YSpeed = 50;
-	Vector2 movement;
-	// Use this for initialization
+	public Vector2 speedOffset = new Vector2(0, 50);
+
+	public float speed;
+
 	void Start () {
 	
 	}
 	
-	// Update is called once per frame
 	void Update () {
-		Vector2 axis = new Vector2(CnInputManager.GetAxis("Horizontal")*1.5f, CnInputManager.GetAxis("Vertical"));
-		movement = new Vector2(XSpeed, YSpeed);
-        transform.Translate ((axis*1.5f) + movement * Time.deltaTime);
+
+		Vector2 axis = new Vector2(CnInputManager.GetAxis("Horizontal"), CnInputManager.GetAxis("Vertical"));
+	
+        transform.Translate (axis * speed * Time.deltaTime, Space.World);
+		transform.Translate (speedOffset * Time.deltaTime, Space.World);
+
 		Debug.Log(CnInputManager.GetAxis("Horizontal"));
 	}
 }
