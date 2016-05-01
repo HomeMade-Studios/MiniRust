@@ -20,7 +20,4 @@ public static class Inventory {
 
 	static List<object> inventoryList;
 
-
-
-
 }
