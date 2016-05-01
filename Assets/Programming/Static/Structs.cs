@@ -30,4 +30,13 @@ public static class Structs {
 
 	}
 
+	public struct EquippedArmor {
+
+		int helmetLevel;
+		int chestpieceLevel;
+		int gauntletsLevel;
+		int greavesLevel;
+
+	}
+
 }

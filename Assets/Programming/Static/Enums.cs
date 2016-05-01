@@ -9,12 +9,8 @@ public enum Tools {
 	HomeMadeShotgun, HomeMadeRevolver, SemiAutoRifle, SemiAutoPistol, SubMachineGun, AssaultRifle, LightMachineGun
 }
 
-public enum Armors {
-	BurlapHelmet, BurlapChestpiece, BurlapGreaves, BurlapGauntlets,
-	WoodHelmet, WoodChestpiece, WoodGreaves, WoodGauntlets,
-	BoneHelmet, BoneChestpiece, BoneGreaves, BoneGauntlets,
-	IronHelmet, IronChestpiece, IronGreaves, IronGauntlets,
-	SteelHelmet, SteelChestpiece, SteelGreaves, SteelGauntlets
+public enum ArmorLevels {
+	Leather, Wood, Bone, Iron, Steel
 }
 
 

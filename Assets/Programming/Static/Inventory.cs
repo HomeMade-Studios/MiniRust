@@ -1,15 +1,26 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
-public class Inventory : MonoBehaviour {
+public static class Inventory {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+	static int woodAmount;
+	static int stoneAmount;
+	static int metalOreAmount;
+	static int sulfurOreAmount;
+	static int metalAmount;
+	static int sulfurAmount;
+	static int clothesAmount;
+	static int boneAmount;
+	static int leatherAmount;
+
+	static int waterAmount;
+	static int cookedFoodAmount;
+	static int rawFoodAmount;
+
+	static List<object> inventoryList;
+
+
+
+
 }
