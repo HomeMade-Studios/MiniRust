@@ -6,6 +6,7 @@ public class BackManagement : MonoBehaviour {
 	public int limit = 512;
 	public Vector2 pos;
 	public Object prefab;
+	public Object rock;
 
 	// Use this for initialization
 	void Start () {
@@ -13,6 +14,7 @@ public class BackManagement : MonoBehaviour {
 		int yPos = Mathf.FloorToInt(transform.localPosition.y / 512) * 512;
         transform.localPosition = new Vector2(transform.localPosition.x, yPos);
 		this.name = "Background_" + ((transform.localPosition.y / 512));
+
 	}
 
 	// Update is called once per frame

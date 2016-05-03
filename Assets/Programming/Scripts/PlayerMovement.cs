@@ -12,7 +12,7 @@ public class PlayerMovement : MonoBehaviour {
 	public Text debug;
 
 	void Start () {
-	
+		
 	}
 	
 	void Update () {
